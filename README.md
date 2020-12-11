@@ -1,6 +1,6 @@
-# Hodl Wallet jobs post
+# Hodl Wallet jobs
 
-Here we gonna store all the posts we are doing to hire.
+Here we gonna publish all the posts we are doing to hire.
 
 # Languages
 
