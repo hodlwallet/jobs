@@ -8,8 +8,8 @@ Here we gonna store all the posts we are doing to hire.
 
 # Current openings
 
-- Mobile / Xamarin Software Engineer (mobile/2021_jr_software_engineer.md)
-- Jr Mobile / Xamarin Software Engineer (mobile/2021_jr_software_engineer.md)
+- Mobile / Xamarin Software Engineer [mobile/2021_software_engineer.md](#mobile/2021_software_engineer.md) (Spanish: [mobile/2021_software_engineer_es.md](#mobile/2021_software_engineer_es.md)
+- Jr Mobile / Xamarin Software Engineer [mobile/2021_jr_software_engineer.md](#mobile/2021_jr_software_engineer.md) (Spanish: [mobile/2021_jr_software_engineer_es.md](#mobile/2021_jr_software_engineer_es.md)
 
 # Potential openings
 
