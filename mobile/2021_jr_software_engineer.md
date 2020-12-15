@@ -7,7 +7,7 @@ The goal is to build an application that serves as a base to many other platform
 Required Skills:
 
 - Interest in writing mobile apps
-- Writen an application web / desktop / other platforms
+- Written an application web / desktop / other platforms
 - At least 2 years of experience on any programming language
 - Some experience with databases
 - Open mind to new languages, like: Rust, Crystal, Go
@@ -29,6 +29,8 @@ Perks:
 - Attend Bitcoin conferences
 - Work on 100% Open Source projects (MIT licensed)
 - Unlimited vacation days
+- Flexible work schedule
+- Almost no meetings, focus on programming!
 - All tech you need
 
 Compensation:

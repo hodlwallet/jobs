@@ -7,7 +7,7 @@ The goal is to build an application that serves as a base to many other platform
 Required Skills:
 
 - Professional mobile experience. We want to know this is not your first rodeo
-- Writen an app, available on the appstore or playstore
+- Written an app, available on the appstore or playstore
 - At least 2 years of experience on one of these languages: Swift, Java, C#
 - Some experience with relational databases
 - Open mind to new languages, like: Rust, Crystal, Go
@@ -29,6 +29,8 @@ Perks:
 - Attend Bitcoin conferences
 - Work on 100% Open Source projects (MIT licensed)
 - Unlimited vacation days
+- Flexible work schedule
+- Almost no meetings, focus on programming!
 - All tech you need
 
 Compensation:

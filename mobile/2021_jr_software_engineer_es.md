@@ -29,6 +29,8 @@ El objetivo es crear una aplicación que sirva como base para muchas otras plata
 - Asiste a conferencias de Bitcoin
 - Trabajar en proyectos 100% de código abierto (licencia MIT)
 - Días de vacaciones ilimitados
+- Horario flexible
+- Casi no reuniones, hay que programar!
 - Toda la tecnología que necesitas
 
 # Compensación:
