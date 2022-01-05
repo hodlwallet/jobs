@@ -1,15 +1,15 @@
-# Hodl Wallet jobs
+# Hodl Wallet Jobs
 
 Here we gonna publish all the posts we are doing to hire.
 
 # Languages
 
-- English & Spanish
+- English
 
 # Current openings
 
-- Mobile / Xamarin Software Engineer [mobile/2022_software_engineer.md](mobile/2022_software_engineer.md) (Spanish: [mobile/2022_software_engineer_es.md](mobile/2022_software_engineer_es.md))
-- Jr Mobile / Xamarin Software Engineer [mobile/2022_jr_software_engineer.md](mobile/2022_jr_software_engineer.md) (Spanish: [mobile/2022_jr_software_engineer_es.md](mobile/2022_jr_software_engineer_es.md))
+- Mobile / Xamarin Software Engineer [mobile/2022_software_engineer.md](mobile/2022_software_engineer.md)
+- Jr Mobile / Xamarin Software Engineer [mobile/2022_jr_software_engineer.md](mobile/2022_jr_software_engineer.md)
 
 # Potential openings
 
