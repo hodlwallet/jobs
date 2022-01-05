@@ -9,7 +9,7 @@ Here we gonna publish all the posts we are doing to hire.
 # Current openings
 
 - Mobile / Xamarin Software Engineer [mobile/2022_software_engineer.md](mobile/2022_software_engineer.md)
-- Jr Mobile / Xamarin Software Engineer [mobile/2022_jr_software_engineer.md](mobile/2022_jr_software_engineer.md)
+- Backend Engineer [backend/2022_software_engineer.md](backend/2022_software_engineer.md)
 
 # Potential openings
 
