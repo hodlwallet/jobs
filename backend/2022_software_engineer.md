@@ -7,7 +7,7 @@ The goal is to build an application that serves as a base to many other platform
 Required Skills:
 
 - Professional backend experience. We want to know this is not your first rodeo
-- At least 5 years of experience on one of these languages: Python, Ruby, C#, Java, JavaScript
+- At least 5 years of experience in one of these languages: Python, Ruby, C#, Java, JavaScript
 - Some experience with relational databases
 - Open mind to new languages, like: Rust, Crystal, Go
 - Loves Open Source software
