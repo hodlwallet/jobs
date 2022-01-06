@@ -15,7 +15,7 @@ Here we gonna publish all the posts we are doing to hire.
 
 These are the openings we might want to hire for later
 
-- Sr Mobile / Xamarin Software Engineer
+- Mobile / Xamarin Software Engineer
 - Backend / Python Engineer
 
 # Contact
